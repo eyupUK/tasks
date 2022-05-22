@@ -16,7 +16,7 @@ Git
 
 **Framework set up**
 
-Fork / Clone repository from here or download zip and set it up in your local workspace.
+Fork / Clone repository from [here](https://github.com/eyupUK/tasks.git) or download zip and set it up in your local workspace.
 
 **Framework Overview**
 
